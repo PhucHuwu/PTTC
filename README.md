@@ -37,8 +37,7 @@ PTTC/
 │   │   │   ├── page.tsx       # Main Chatbot UI interface
 │   │   │   └── globals.css    # Tailwind styling
 │   │   └── components/
-│   │       ├── SourceCitations.tsx # Citation & reference viewer
-│   │       └── LeadModal.tsx       # Consultation registration modal
+│   │       └── SourceCitations.tsx # Citation & reference viewer
 │   ├── package.json
 │   ├── tailwind.config.js
 │   └── tsconfig.json
