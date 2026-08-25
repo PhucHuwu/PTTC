@@ -35,3 +35,6 @@ frontend/out/
 frontend/build/
 .DS_Store
 *.log
+
+# Untracked Docs
+docs/proposal.docx
