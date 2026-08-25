@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Chương trình HSK 1–HSK 3 dành cho những ai?",
+    "answer": "Chương trình phù hợp với người mới bắt đầu, sinh viên và người có nhu cầu xây dựng nền tảng tiếng Trung theo lộ trình từ HSK 1 đến HSK 3."
+  },
+  {
+    "id": 2,
+    "question": "Chưa từng học tiếng Trung có đăng ký được không?",
+    "answer": "Có. HSK 1 được thiết kế từ nền tảng ban đầu, phù hợp với học viên chưa có kiến thức tiếng Trung."
+  },
+  {
+    "id": 3,
+    "question": "Có bắt buộc phải học từ HSK 1 không?",
+    "answer": "Không nhất thiết. Học viên đã có nền tảng có thể được tư vấn lựa chọn cấp độ phù hợp với năng lực hiện tại."
+  },
+  {
+    "id": 4,
+    "question": "HSK 1 tập trung vào nội dung gì?",
+    "answer": "HSK 1 tập trung xây dựng nền tảng phát âm, từ vựng, ngữ pháp cơ bản và các mẫu giao tiếp đơn giản."
+  },
+  {
+    "id": 5,
+    "question": "HSK 2 khác HSK 1 như thế nào?",
+    "answer": "HSK 2 phát triển trên nền tảng HSK 1, mở rộng khả năng diễn đạt và sử dụng tiếng Trung trong nhiều tình huống hơn."
+  },
+  {
+    "id": 6,
+    "question": "HSK 3 tập trung phát triển năng lực gì?",
+    "answer": "HSK 3 hướng đến việc nâng cao khả năng sử dụng tiếng Trung, tăng cường nghe – nói – đọc – viết và khả năng ứng dụng."
+  },
+  {
+    "id": 7,
+    "question": "Chương trình có định hướng HSK 3.0 không?",
+    "answer": "Có. Chương trình được xây dựng theo định hướng chuẩn HSK 3.0 và phát triển năng lực sử dụng tiếng Trung theo từng cấp độ."
+  },
+  {
+    "id": 8,
+    "question": "Chương trình chú trọng thi HSK hay giao tiếp?",
+    "answer": "Chương trình kết hợp kiến thức HSK với thực hành giao tiếp và ứng dụng tiếng Trung, thay vì chỉ tập trung luyện đề."
+  },
+  {
+    "id": 9,
+    "question": "Có được luyện phát âm ngay từ đầu không?",
+    "answer": "Có. Phát âm là nội dung nền tảng, được chú trọng ngay từ giai đoạn đầu để hình thành thói quen phát âm đúng."
+  },
+  {
+    "id": 10,
+    "question": "Có học chữ Hán không?",
+    "answer": "Có. Học viên được làm quen và phát triển khả năng nhận biết, đọc và sử dụng chữ Hán phù hợp với từng cấp độ."
+  },
+  {
+    "id": 11,
+    "question": "Có học ngữ pháp không?",
+    "answer": "Có. Ngữ pháp được tổ chức theo từng bài và gắn với tình huống sử dụng để học viên dễ hiểu và vận dụng."
+  },
+  {
+    "id": 12,
+    "question": "Kỹ năng nghe được rèn luyện như thế nào?",
+    "answer": "Học viên được luyện nghe thông qua nội dung bài học, hội thoại, bài tập và các tình huống phù hợp với trình độ."
+  },
+  {
+    "id": 13,
+    "question": "Khả năng nói được phát triển ra sao?",
+    "answer": "Học viên được khuyến khích thực hành hội thoại, hỏi – đáp, đóng vai và sử dụng tiếng Trung trực tiếp trên lớp."
+  },
+  {
+    "id": 14,
+    "question": "Chương trình có rèn kỹ năng đọc không?",
+    "answer": "Có. Nội dung đọc được phát triển từ câu, đoạn hội thoại đến các nội dung phù hợp với năng lực từng cấp độ."
+  },
+  {
+    "id": 15,
+    "question": "Kỹ năng viết được triển khai thế nào?",
+    "answer": "Học viên được hướng dẫn viết chữ, câu và nội dung phù hợp với yêu cầu của từng giai đoạn đào tạo."
+  },
+  {
+    "id": 16,
+    "question": "Một buổi học kéo dài bao lâu?",
+    "answer": "Theo phương án chương trình hiện tại, mỗi buổi học có thời lượng khoảng 02 giờ."
+  },
+  {
+    "id": 17,
+    "question": "HSK 1 có bao nhiêu buổi?",
+    "answer": "Theo kế hoạch hiện tại, HSK 1 gồm 19 buổi."
+  },
+  {
+    "id": 18,
+    "question": "HSK 2 có bao nhiêu buổi?",
+    "answer": "HSK 2 dự kiến gồm 19 buổi."
+  },
+  {
+    "id": 19,
+    "question": "HSK 3 có bao nhiêu buổi?",
+    "answer": "HSK 3 dự kiến gồm 32 buổi."
+  },
+  {
+    "id": 20,
+    "question": "Toàn bộ lộ trình HSK 1–3 kéo dài bao nhiêu buổi?",
+    "answer": "Tổng lộ trình hiện được xây dựng gồm 70 buổi, tương đương khoảng 140 giờ học."
+  },
+  {
+    "id": 21,
+    "question": "Quy mô lớp trực tiếp là bao nhiêu?",
+    "answer": "Lớp trực tiếp dự kiến tổ chức khoảng 15–20 học viên/lớp để bảo đảm hiệu quả tổ chức và tương tác."
+  },
+  {
+    "id": 22,
+    "question": "Quy mô lớp trực tuyến là bao nhiêu?",
+    "answer": "Lớp trực tuyến dự kiến khoảng 10–12 học viên/lớp, thuận lợi cho việc tương tác giữa giảng viên và học viên."
+  },
+  {
+    "id": 23,
+    "question": "Có thể học trực tuyến không?",
+    "answer": "Có. Chương trình có thể triển khai theo hình thức trực tuyến tùy kế hoạch mở lớp của Trung tâm."
+  },
+  {
+    "id": 24,
+    "question": "Học trực tiếp được tổ chức ở đâu?",
+    "answer": "Địa điểm cụ thể được Trung tâm thông báo theo từng đợt tuyển sinh và kế hoạch bố trí lớp học."
+  },
+  {
+    "id": 25,
+    "question": "Lịch học được sắp xếp như thế nào?",
+    "answer": "Trung tâm căn cứ nhu cầu học viên và điều kiện tổ chức để bố trí lịch phù hợp cho từng lớp."
+  },
+  {
+    "id": 26,
+    "question": "Nếu bận một buổi học thì xử lý thế nào?",
+    "answer": "Học viên nên thông báo với bộ phận phụ trách lớp; phương án hỗ trợ sẽ được thực hiện theo quy định của từng lớp."
+  },
+  {
+    "id": 27,
+    "question": "Giáo viên của chương trình có yêu cầu chuyên môn như thế nào?",
+    "answer": "Giảng viên được lựa chọn dựa trên trình độ chuyên môn, năng lực tiếng Trung và khả năng giảng dạy phù hợp với chương trình."
+  },
+  {
+    "id": 28,
+    "question": "Có cơ hội giao lưu với giáo viên bản ngữ không?",
+    "answer": "Chương trình định hướng tăng cường các hoạt động giao lưu, chuyên đề hoặc thực hành với giảng viên/chuyên gia bản ngữ khi điều kiện tổ chức phù hợp."
+  },
+  {
+    "id": 29,
+    "question": "Phương pháp giảng dạy có gì khác với việc tự học?",
+    "answer": "Học viên được học theo lộ trình, có giảng viên hướng dẫn, thực hành, sửa lỗi và được theo dõi quá trình học tập."
+  },
+  {
+    "id": 30,
+    "question": "Trên lớp có hoạt động nhóm không?",
+    "answer": "Có thể tổ chức hỏi – đáp, hội thoại, làm việc nhóm, đóng vai và các hoạt động tương tác phù hợp với nội dung bài học."
+  },
+  {
+    "id": 31,
+    "question": "Công nghệ có được sử dụng trong quá trình học không?",
+    "answer": "Trung tâm định hướng sử dụng học liệu số và các công cụ hỗ trợ phù hợp nhằm tăng khả năng tự học và tương tác."
+  },
+  {
+    "id": 32,
+    "question": "Học viên có bài tập sau buổi học không?",
+    "answer": "Có thể có. Bài tập được sử dụng để củng cố kiến thức và giúp học viên tiếp tục luyện tập ngoài giờ học chính thức."
+  },
+  {
+    "id": 33,
+    "question": "Có kiểm tra trong quá trình học không?",
+    "answer": "Có. Việc đánh giá có thể được thực hiện trong quá trình học nhằm theo dõi mức độ tiếp thu và tiến bộ của học viên."
+  },
+  {
+    "id": 34,
+    "question": "Cuối khóa có đánh giá kết quả không?",
+    "answer": "Có. Học viên được đánh giá cuối khóa theo nội dung và yêu cầu đầu ra của cấp độ đã học."
+  },
+  {
+    "id": 35,
+    "question": "Có luyện đề HSK không?",
+    "answer": "Có. Nội dung ôn luyện và làm quen với dạng bài HSK được bố trí phù hợp với từng cấp độ."
+  },
+  {
+    "id": 36,
+    "question": "Kết quả học tập được theo dõi như thế nào?",
+    "answer": "Trung tâm có thể theo dõi thông qua chuyên cần, mức độ tham gia, bài tập, kiểm tra và kết quả đánh giá theo chương trình."
+  },
+  {
+    "id": 37,
+    "question": "Học phí HSK 1 hiện nay là bao nhiêu?",
+    "answer": "Theo mức niêm yết đang xây dựng, HSK 1 là 3.230.000 đồng/học viên."
+  },
+  {
+    "id": 38,
+    "question": "Học phí HSK 2 là bao nhiêu?",
+    "answer": "Mức niêm yết HSK 2 hiện là 3.230.000 đồng/học viên."
+  },
+  {
+    "id": 39,
+    "question": "Học phí HSK 3 là bao nhiêu?",
+    "answer": "Mức niêm yết HSK 3 hiện là 6.400.000 đồng/học viên."
+  },
+  {
+    "id": 40,
+    "question": "Tổng học phí HSK 1–3 là bao nhiêu?",
+    "answer": "Tổng mức học phí niêm yết của lộ trình HSK 1–3 hiện là 12.860.000 đồng/học viên."
+  },
+  {
+    "id": 41,
+    "question": "Sinh viên PTIT có chính sách riêng không?",
+    "answer": "Trung tâm có thể triển khai các chương trình học bổng hoặc ưu đãi dành riêng cho sinh viên PTIT theo từng đợt tuyển sinh."
+  },
+  {
+    "id": 42,
+    "question": "Đăng ký cả lộ trình có lợi gì?",
+    "answer": "Học viên có lộ trình học liên tục từ nền tảng đến HSK 3 và có thể được hưởng chính sách dành cho combo nếu chương trình đang áp dụng."
+  },
+  {
+    "id": 43,
+    "question": "Có chính sách cho người đăng ký sớm không?",
+    "answer": "Tùy từng đợt khai giảng, Trung tâm có thể dành số lượng học bổng/ưu đãi giới hạn cho những học viên hoàn tất đăng ký sớm."
+  },
+  {
+    "id": 44,
+    "question": "Có được học thử trước khi quyết định không?",
+    "answer": "Nếu đợt tuyển sinh áp dụng chính sách trải nghiệm, học viên có thể tham gia số buổi trải nghiệm theo thông báo cụ thể của Trung tâm."
+  },
+  {
+    "id": 45,
+    "question": "Đăng ký cùng bạn bè có được ưu đãi không?",
+    "answer": "Trung tâm có thể áp dụng chính sách đăng ký theo nhóm trong từng đợt; mức quyền lợi sẽ căn cứ thông báo tuyển sinh chính thức."
+  },
+  {
+    "id": 46,
+    "question": "Giới thiệu bạn mới tham gia có quyền lợi không?",
+    "answer": "Nếu chương trình giới thiệu học viên đang được triển khai, học viên giới thiệu thành công có thể nhận quyền lợi theo chính sách công bố."
+  },
+  {
+    "id": 47,
+    "question": "Học tốt cuối khóa có được khuyến khích không?",
+    "answer": "Trung tâm định hướng có chính sách ghi nhận hoặc học bổng thành tích đối với học viên đạt kết quả tốt theo tiêu chí từng đợt."
+  },
+  {
+    "id": 48,
+    "question": "Học HSK 1–3 có hỗ trợ cho định hướng nghề nghiệp không?",
+    "answer": "Tiếng Trung có thể bổ sung năng lực ngoại ngữ cho sinh viên; chương trình đồng thời định hướng tăng tính ứng dụng trong học tập và môi trường làm việc."
+  },
+  {
+    "id": 49,
+    "question": "Sau HSK 3 có thể học tiếp không?",
+    "answer": "Có. Học viên có thể tiếp tục phát triển lên các trình độ cao hơn theo lộ trình và chương trình đào tạo được triển khai tiếp theo."
+  },
+  {
+    "id": 50,
+    "question": "Muốn đăng ký thì thực hiện như thế nào?",
+    "answer": "Học viên đăng ký qua kênh tuyển sinh chính thức của Trung tâm, cung cấp thông tin cần thiết và hoàn tất thủ tục theo hướng dẫn của từng đợt khai giảng."
+  }
+]
